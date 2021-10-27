@@ -45,4 +45,4 @@ To train the model(s) in the paper:
 
 6. Interpretability:
 
-<img src="interpretability.png" width="80%" height="80%">
+<img src="interpretbility.png" width="80%" height="80%">
